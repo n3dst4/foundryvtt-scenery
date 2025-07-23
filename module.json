@@ -19,7 +19,7 @@
   "compatibility": {
     "minimum": "10",
     "verified": "12",
-    "maximum": "12"
+    "maximum": "13"
   },
   "esmodules": [
     "./scripts/scenery.js"
